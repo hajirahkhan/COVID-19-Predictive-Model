@@ -1,3 +1,5 @@
+Used Python to build a model to predict the number of confirmed COVID-19 cases. Predicted the infection rate, and the number of deaths in the country of Zambia based on collected data from the early stages of the pandemic and created graphs and models to show findings based on calculations.
+
 # COVID-19-Predictive-Model
 To create a final model for COVID-19 in the country of Zambia, I started off with data from 4/1/20 to 4/20/20 which indicated the number of people with confirmed 
 COVID-19 cases as well as those who recovered and those who died from COVID-19. Using this data I was able to build a predictive model which showed the number of people who had confirmed 
